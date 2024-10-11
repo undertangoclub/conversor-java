@@ -54,6 +54,13 @@ Al iniciar el programa, se mostrará un menú con las opciones disponibles para 
 - **API utilizada**: [ExchangeRate API](https://www.exchangerate-api.com/docs/java-currency-api)
 - **Documentación Java**: [Java 11 Documentation](https://docs.oracle.com/en/java/javase/11/)
 
+## Video Explicativo
+
+Si quieres ver una demostración del proyecto y una explicación sobre cómo se desarrolló, puedes ver el video a continuación:
+
+https://youtu.be/NEwRDnJ4tlQ
+
+
 ## Conclusión
 
 Este proyecto representa una excelente oportunidad para practicar habilidades fundamentales en el desarrollo de software, como la interacción con APIs, el uso de bibliotecas externas para la manipulación de datos JSON, y la implementación de una lógica de negocios clara y útil para el usuario.
